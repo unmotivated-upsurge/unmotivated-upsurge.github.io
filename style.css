@@ -1,4 +1,8 @@
-:root{--bg:#aba5a5;--fg:#0b1219;--rule:#0b1219}
+:root {
+  --bg: #b0b7bd;    /* Cinza frio (fundo azulado, estilo aço claro) */
+  --fg: #1a1c1e;    /* Grafite escuro moderno (quase preto) */
+  --rule: #1a1c1e;  /* Mesmo grafite escuro para as divisórias */
+}
 *{box-sizing:border-box}
 html{background:var(--bg);color:var(--fg);font:15px/1.5 "SFMono-Regular",Menlo,Consolas,"Liberation Mono",monospace}
 body{margin:0;padding:clamp(1.5rem,5vw,3rem) 1.25rem 4rem}
