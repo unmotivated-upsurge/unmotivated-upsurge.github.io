@@ -1,0 +1,63 @@
+
+Inspiration template: https://www.criticalinfralab.net/
+
+<title of the website> the unmotivated upserge of the world: merleau-ponty reading group 
+
+<Description>
+we are a group of researchers and studens gathered to read and discuss maurice merleau-ponty's work. since 2025, we hold bi-weekly meetings that take place in universiteit leiden.
+
+if you want to get involved in the work of the group, you can sign up to our newsletter or contact us at.
+
+<Section 1>
+<title> september-december 2026
+
+bi-weekly friday session 11:00 – 13:00
+
+reading items:
+- \textit{adventures of the dialectic}, by maurice merleau-ponty
+
+september 18: \textit{adventures of the dialectic}, preface and chapter 1, "the crisis of understanding"
+october 2: \textit{adventures of the dialectic}, chapter 2, "'western' marxism"
+october 16: \textit{adventures of the dialectic}, chapter 3, "pravda"
+october 30: \textit{adventures of the dialectic}, chapter 4, "the dialectic in action"
+november 13: \textit{adventures of the dialectic}, chapter 5, "sartre and ultrabolchevism" and epilogue
+november 27:
+december 11:
+
+<Section 2>
+<title> march-june 2026
+
+bi-weekly friday session 10:00 – 12:00
+
+reading items:
+- \textit{institution and passivity: course notes from the collège de france (1954-1955) by maurice merleau-ponty
+- \textit{the merleau-ponty reader}, edited by leonard lawlor.
+
+march 6: \textit{institution and passivity}, foreword and introduction to part 1.
+march 20: \textit{institution and passivity}, part 1, "institution and life"
+april 10: \textit{institution and passivity}, part 1, "institution of a feeling"
+april 17: \textit{institution and passivity}, part 1, "the institution of a work of art"
+may 1: \textit{institution and passivity}, part 1, "institution of a domain of knowledge" and "the field of culture"
+may 29: \textit{institution and passivity}, part 1, "historical institution: particularity and universality"
+june 12: \textit{the merleau-ponty reader}, part 2, "14. an unpublished text by maurice merleau-ponty: a prospectus of his work"
+june 26: \textit{the merleau-ponty reader},part 2, "8. a note on machiavelli"
+
+
+<Section 3>
+<title> september-december 2025
+
+bi-weekly friday session 11:00 – 13:00
+
+reading items:
+- \textit{phenomenology of perception}, by maurice merleau-ponty
+- \textit{the visible and the invisible}, by maurice merleau-ponty
+
+september 19: preface to the \textit{phenomenology of perception}
+october 10: \textit{the visible and the invisible} chapter 1, "reflection and interrogation"
+october 17: \textit{the visible and the invisible} chapter 2, "interrogation and dialectic"
+october 31: \textit{the visible and the invisible} chapter 3, "interrogation and intuition"
+november 14: \textit{the visible and the invisible} chapter 4, "the interwining – the chiasm", first half
+november 28: \textit{the visible and the invisible} chapter 4, "the interwining – the chiasm", second half
+december 12: \textit{the visible and the invisible} chapter 4, working notes, first half
+december 19: \textit{the visible and the invisible} chapter 4, working notes, second half
+
