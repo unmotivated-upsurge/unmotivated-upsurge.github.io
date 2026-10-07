@@ -5,14 +5,13 @@
 }
 *{box-sizing:border-box}
 html{background:var(--bg);color:var(--fg);font:15px/1.5 "SFMono-Regular",Menlo,Consolas,"Liberation Mono",monospace}
-body{margin:0;padding:clamp(1.5rem,5vw,3rem) 1.25rem 4rem}
-main{max-width:60rem;margin:0 auto}
+body{margin:0;padding:clamp(1.5rem,5vw,3rem) 1.5rem 4rem} /* Mudado de 1.25rem para fixar um respiro melhor */main{max-width:60rem;margin:0 auto}
 h1{font:700 clamp(2.6rem,9vw,5.6rem)/.95 system-ui,"Helvetica Neue",Arial,sans-serif;letter-spacing:-.04em;margin:0 0 4rem;max-width:11em}
 h1 span{display:block;margin-top:.5em;font-size:.4em;line-height:1.1;letter-spacing:-.02em}
-p{margin:0 0 1rem;max-width:62ch}
+p{margin:0 0 1rem;max-width:1000ch} /* Aumentado de 62ch para 75ch */
 a{color:inherit;text-underline-offset:.2em}
 a:focus-visible,summary:focus-visible{outline:2px solid var(--fg);outline-offset:3px}
-header{margin-bottom:3rem}
+header{margin-bottom:3rem;padding-left:0}
 .tab{display:inline-block;margin:0;background:var(--fg);color:var(--bg);font:inherit;padding:.4rem .75rem}
 .list{border-top:1px solid var(--rule)}
 details{border-bottom:1px solid var(--rule)}
